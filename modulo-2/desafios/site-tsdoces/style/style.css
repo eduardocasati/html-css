@@ -1,0 +1,234 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+  --cor1: #D3C5AE;
+  --cor2: #A19684;
+  --cor3: #DBB372;
+  --cor4: #54452C;
+  --cor5: #544E45;
+
+  --fonte-destaque: 'Merriweather', serif;
+  --fonte-padrao: 'Open Sans', Arial, Verdana, Helvetica, sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: var(--fonte-padrao);
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url(../imagens/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* CABEÇALHO */
+
+header img {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block;
+  margin: auto;
+}
+
+header p {
+  text-align: center;
+  color: var(--cor2);
+}
+
+header a {
+  padding: 0px 15px;
+  text-decoration: none;
+  color: var(--cor1);
+}
+
+header a:hover {
+  text-decoration: none;
+  color: var(--cor2);
+  transition-duration: 0.5s;
+}
+
+/* MAIN */
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* PRINCIPAL */
+
+#principal {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 200px;
+}
+
+#principal h1 {
+  max-width: 600px;
+  padding: 100px 100px;
+  text-align: center;
+  color: white;
+  font-family: var(--fonte-destaque);
+  font-size: 2em;
+}
+
+#principal button {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding: 10px 20px;
+  background-color: transparent;
+  border-color: var(--cor1);
+  border-style: solid;
+  color: var(--cor1);
+}
+
+#principal button:hover {
+  color: var(--cor2);
+  border-color: var(--cor2);
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+#principal a {
+  text-decoration: none;
+}
+
+/* SOBRE */
+#sobre {
+  text-align: center;
+  margin: auto;
+  background-color: white;
+  padding: 50px 50px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+#sobre h2 {
+  padding-bottom: 50px;
+  font-family: var(--fonte-destaque);
+  font-size: 1.8em;
+  color: var(--cor4);
+}
+
+#sobre p {
+  color: black;
+  font-size: 1.2em;
+}
+
+/* CATÁLOGO */
+
+#catalogo {
+  text-align: center;
+  margin: auto;
+  background-color: white;
+  padding: 50px 50px;
+  border-radius: 0px;
+}
+
+#catalogo h2 {
+  padding-bottom: 50px;
+  font-family: var(--fonte-destaque);
+  font-size: 1.8em;
+  color: var(--cor4);
+}
+
+#catalogo h3 {
+  padding: 10px;
+  color: var(--cor3);
+  font-family: var(--fonte-destaque);
+}
+
+#catalogo p {
+  padding-bottom: 20px;
+}
+
+#catalogo button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+/* CONTATO */
+
+#contato {
+  text-align: center;
+  margin: auto;
+  background-color: white;
+  padding: 50px 50px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+#contato h2 {
+  padding-bottom: 50px;
+  font-family: var(--fonte-destaque);
+  font-size: 1.8em;
+  color: var(--cor4);
+}
+
+#contato h3 {
+  padding: 10px;
+  color: var(--cor3);
+  font-family: var(--fonte-destaque);
+}
+
+#contato p {
+  padding-bottom: 20px;
+}
+
+#contato a {
+  text-decoration: underline;
+  color: black;
+}
+
+#contato a:hover {
+  color: var(--cor2);
+  transition-duration: 0.5s;
+}
+
+#contato a::after {
+  content: '\00a0\2197';
+}
+
+/* RODAPÉ */
+footer {
+  height: 100%;
+  width: 100%;
+}
+
+footer div {
+  margin: 50px 0px;
+  text-align: center;
+}
+
+footer div a {
+  text-decoration: underline;
+  color: white;
+}
+
+footer div a:hover {
+  color: var(--cor2);
+  transition-duration: 0.5s;
+}
+
+footer p {
+  padding: 5px 0px;
+  background-color: #1f1e1c;
+  font-size: 0.8em;
+  text-align: center;
+  color: var(--cor2);
+}
+
+footer p a {
+  color: var(--cor1);
+}
+
+footer p a:hover {
+  color: var(--cor2);
+  transition-duration: 0.5s;
+}
