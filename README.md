@@ -1,7 +1,7 @@
 # html-css
- Curso de HTML5 e CSS3 do Curso em Vídeo
+ <h1>Curso de HTML5 e CSS3 do Curso em Vídeo</h1>
 
-<h1>Projetos</h1>
+<h2>Projetos</h2>
 <p>
 • <a href="">Site Projeto do Módulo 2 do Curso de HTML5 e CSS3 do Curso em Vídeo</a>.
 </br>
