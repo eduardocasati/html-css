@@ -7,3 +7,4 @@
 </br>
 • <a href="https://eduardocasati.github.io/projeto-tsdoces/" target="_blank">Site TS Doces</a>.
 </p>
+• <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Site Cordel Moderno</a> (teste efeito parallax).
