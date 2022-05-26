@@ -9,5 +9,5 @@
 <p>
 • <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Site "Cordel Moderno"</a> (teste efeito parallax).
 </br>
-• <a href="https://eduardocasati.github.io/site-tsdoces2/" target="_blank">Site TS Doces</a>.
+• <a href="https://eduardocasati.github.io/site-tsdoces/" target="_blank">Site TS Doces</a>.
 </p>
