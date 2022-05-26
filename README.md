@@ -7,7 +7,7 @@
 </br>
 <h2>Projetos Módulo 3</h2>
 <p>
-• <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Site Cordel Moderno</a> (teste efeito parallax).
+• <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Site "Cordel Moderno"</a> (teste efeito parallax).
 </br>
 • <a href="https://eduardocasati.github.io/site-tsdoces2/" target="_blank">Site TS Doces</a>.
 </p>
