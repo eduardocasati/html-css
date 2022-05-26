@@ -5,11 +5,9 @@
 <p>
 • <a href="https://eduardocasati.github.io/projeto-android/" target="_blank">Site Android</a>.
 </br>
-• <a href="https://eduardocasati.github.io/projeto-tsdoces/" target="_blank">Site TS Doces</a>.
-</p>
 <h2>Projetos Módulo 3</h2>
 <p>
 • <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Site Cordel Moderno</a> (teste efeito parallax).
 </br>
-• <a href="https://eduardocasati.github.io/site-tsdoces2/" target="_blank">Site TS Doces v2</a>.
+• <a href="https://eduardocasati.github.io/site-tsdoces2/" target="_blank">Site TS Doces</a>.
 </p>
