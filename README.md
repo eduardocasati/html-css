@@ -13,6 +13,6 @@
 </br>
 <h2>Projetos Módulo 4</h2>
 <p>
-  <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Projeto Redes Sociais</a> (iframes).
+  <a href="https://eduardocasati.github.io/projeto-redessociais/" target="_blank">Projeto Redes Sociais</a> (iframes).
 </p>
 </p>
