@@ -10,4 +10,9 @@
 • <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Site "Cordel Moderno"</a> (teste efeito parallax).
 </br>
 • <a href="https://eduardocasati.github.io/site-tsdoces/" target="_blank">Site TS Doces</a>.
+</br>
+<h2>Projetos Módulo 4</h2>
+<p>
+  <a href="https://eduardocasati.github.io/projeto-cordel/" target="_blank">Projeto Redes Sociais</a> (iframes).
+</p>
 </p>
